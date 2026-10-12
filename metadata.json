@@ -1,0 +1,6 @@
+{
+  "name": "ConnectSphere",
+  "description": "A full-stack social networking platform combining rich media feeds, interest communities, and real-time messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
